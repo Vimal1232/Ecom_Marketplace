@@ -15,6 +15,8 @@ const Shop = () => {
           Paragraph="Find and download the best high-quality 3D and vector illustrations, fonts, designs and mockups."
           Button="Shop Templates"
           fontClass="font-medium"
+          fontsize="text-[64px]"
+          width="max-w-[700px] "
         />
       </div>
       <div className="py-10">

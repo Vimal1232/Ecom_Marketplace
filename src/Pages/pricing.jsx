@@ -14,6 +14,8 @@ const Pricing = () => {
           Paragraph="Find and download the best high-quality 3D and vector illustrations, fonts, designs and mockups."
           Button="Pricing"
           fontClass="font-semibold"
+          fontsize="text-[64px]"
+          width="max-w-[700px] "
         />
       </div>
       <div className="my-16">
