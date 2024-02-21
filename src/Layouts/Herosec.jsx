@@ -65,9 +65,11 @@ const Herosec = () => {
             </p>
           </div>
           <div>
-            <button className=" bg-primary text-pure px-6 py-3 rounded-full font-Inter text-[18px] font-medium hover:bg-tertiary duration-700 ease-in-out">
-              <Link to="/price">Get Pro Access </Link>
-            </button>
+            <Link to="/price">
+              <button className=" bg-primary text-pure px-6 py-3 rounded-full font-Inter text-[18px] font-medium hover:bg-tertiary duration-700 ease-in-out">
+                Get Pro Access
+              </button>
+            </Link>
           </div>
           <div className="flex items-center gap-6 mt-20 max-sm:mt-6 max-sm:flex-wrap">
             <div className="flex gap-2 items-center">
