@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+}
+
+
+
+
+@layer components {
+  .gradient_gg {
+    position: relative;
+    width: 100%;
+    height: 600px;
+  }
+  .gradient_gg::after {
+    content: "";
+    background: rgb(242, 244, 247);
+    background: linear-gradient(
+      0deg,
+      rgba(242, 244, 247, 1) 0%,
+      rgba(242, 244, 247, 0) 20%,
+      rgba(242, 244, 247, 0) 50%,
+      rgba(242, 244, 247, 0) 80%,
+      rgba(242, 244, 247, 1) 100%
+    );
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  .box-shadow-1 {
+    box-shadow: rgba(0, 0, 0, 0.03) 0px 16px 40px 0px;
+  }
+}

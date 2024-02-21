@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "Omar D.",
+    "template": "Nayzak UI Kit",
+    "review": "Clonify is a game-changer. Instead of drowning in an endless chain of UI kits, there is clear and easy accountability meaning tasks actually get done!",
+    "profile": "../assets/Profile_Images/Person_1.webp"
+  },
+
+  {
+    "id": "2",
+    "name": "Rajeswari S.",
+    "template": "Nayzak UI Kit",
+    "review": "Clonify has helped my team and I stay on the same page. Previously, we were all over the board. Using Clonify has definitely saved us time and money.",
+    "profile": "../assets/Profile_Images/Person_2.webp"
+  },
+
+  {
+    "id": "3",
+    "name": "Viktor T.",
+    "template": "Nayzak UI Kit",
+    "review": "If you are a business owner, and you don't have Clonify in your toolkit just yet, I highly recommend that you check it out.",
+    "profile": "../assets/Profile_Images/Person_3.webp"
+  },
+
+  {
+    "id": "4",
+    "name": "Tina A.",
+    "template": "Nayzak UI Kit",
+    "review": "If you want to take your business to the next level, use Clonify and don't look any further.",
+    "profile": "../assets/Profile_Images/Person_4.webp"
+  },
+
+  {
+    "id": "5",
+    "name": "Natasha L.",
+    "template": "Nayzak UI Kit",
+    "review": "I have been using Clonify for over a year now and I love it! I can't imagine life without it. It's so easy to use, and the customer service is more than great.",
+    "profile": "../assets/Profile_Images/Person_5.webp"
+  },
+
+  {
+    "id": "6",
+    "name": "David G.",
+    "template": "Nayzak UI Kit",
+    "review": "Everyone’s on the same page. Many of our people are not very organized naturally, so Clonify is a godsend!",
+    "profile": "../assets/Profile_Images/Person_6.webp"
+  },
+  {
+    "id": "7",
+    "name": "Fernando A.",
+    "template": "Nayzak UI Kit",
+    "review": "We can't understand how we've been living without Clonify.",
+    "profile": "../assets/Profile_Images/Person_7.webp"
+  },
+
+  {
+    "id": "8",
+    "name": "Nina S.",
+    "template": "Nayzak UI Kit",
+    "review": "With Clonify, communication between all of us is far more efficient. A game changer.",
+    "profile": "../assets/Profile_Images/Person_8.webp"
+  },
+
+  {
+    "id": "9",
+    "name": "Natalie M.",
+    "template": "Nayzak UI Kit",
+    "review": "I would recommend Clonify for anyone trying to get the word out about their business. It has saved me so much time!",
+    "profile": "../assets/Profile_Images/Person_9.webp"
+  }
+]

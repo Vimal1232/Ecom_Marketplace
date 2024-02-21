@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "Orbe",
+    "tag": "Ecommerce",
+    "price": "24$",
+    "image": "../assets/Product_Images/asset_0.png"
+  },
+
+  {
+    "id": 2,
+    "name": "Blnk",
+    "tag": "Ecommerce",
+    "price": "30$",
+    "image": "../assets/Product_Images/asset_1.png"
+  },
+  {
+    "id": 3,
+    "name": "Krate",
+    "tag": "Ecommerce",
+    "price": "20$",
+    "image": "../assets/Product_Images/asset_2.png"
+  },
+  {
+    "id": 4,
+    "name": "AltC",
+    "tag": "Ecommerce",
+    "price": "25$",
+    "image": "../assets/Product_Images/asset_3.png"
+  },
+  {
+    "id": 5,
+    "name": "Trinity",
+    "tag": "Ecommerce",
+    "price": "30$",
+    "image": "../assets/Product_Images/asset_4.png"
+  },
+  {
+    "id": 6,
+    "name": "Kliq",
+    "tag": "Ecommerce",
+    "price": "35$",
+    "image": "../assets/Product_Images/asset_5.png"
+  },
+  {
+    "id": 7,
+    "name": "Polar",
+    "tag": "Ecommerce",
+    "price": "24$",
+    "image": "../assets/Product_Images/asset_6.png"
+  },
+  {
+    "id": 8,
+    "name": "Nayzak",
+    "tag": "Ecommerce",
+    "price": "40$",
+    "image": "../assets/Product_Images/asset_7.png"
+  },
+  {
+    "id": 9,
+    "name": "Flora",
+    "tag": "Ecommerce",
+    "price": "27$",
+    "image": "../assets/Product_Images/asset_8.png"
+  },
+  {
+    "id": 10,
+    "name": "Kensho",
+    "tag": "Ecommerce",
+    "price": "23$",
+    "image": "../assets/Product_Images/asset_9.png"
+  },
+  {
+    "id": 11,
+    "name": "Yola",
+    "tag": "Ecommerce",
+    "price": "20$",
+    "image": "../assets/Product_Images/asset_10.png"
+  },
+  {
+    "id": 12,
+    "name": "Kozmo",
+    "tag": "Ecommerce",
+    "price": "10$",
+    "image": "../assets/Product_Images/asset_11.png"
+  },
+  {
+    "id": 13,
+    "name": "Moonz",
+    "tag": "Ecommerce",
+    "price": "30$",
+    "image": "../assets/Product_Images/asset_12.png"
+  },
+  {
+    "id": 14,
+    "name": "Krizp",
+    "tag": "Ecommerce",
+    "price": "25$",
+    "image": "../assets/Product_Images/asset_13.png"
+  },
+  {
+    "id": 15,
+    "name": "Hollar",
+    "tag": "Ecommerce",
+    "price": "30$",
+    "image": "../assets/Product_Images/asset_14.png"
+  },
+  {
+    "id": 16,
+    "name": "Vantra",
+    "tag": "Ecommerce",
+    "price": "35$",
+    "image": "../assets/Product_Images/asset_15.png"
+  },
+  {
+    "id": 17,
+    "name": "Herka",
+    "tag": "Ecommerce",
+    "price": "24$",
+    "image": "../assets/Product_Images/asset_16.png"
+  },
+  {
+    "id": 18,
+    "name": "Plymm",
+    "tag": "Ecommerce",
+    "price": "40$",
+    "image": "../assets/Product_Images/asset_17.png"
+  },
+  {
+    "id": 19,
+    "name": "Tyco",
+    "tag": "Ecommerce",
+    "price": "27$",
+    "image": "../assets/Product_Images/asset_18.png"
+  },
+  {
+    "id": 20,
+    "name": "Dento",
+    "tag": "Ecommerce",
+    "price": "23$",
+    "image": "../assets/Product_Images/asset_19.png"
+  },
+  {
+    "id": 21,
+    "name": "Crane",
+    "tag": "Ecommerce",
+    "price": "20$",
+    "image": "../assets/Product_Images/asset_20.png"
+  },
+  {
+    "id": 22,
+    "name": "Bliss",
+    "tag": "Ecommerce",
+    "price": "10$",
+    "image": "../assets/Product_Images/asset_21.png"
+  },
+  {
+    "id": 23,
+    "name": "Kento",
+    "tag": "Ecommerce",
+    "price": "10$",
+    "image": "../assets/Product_Images/asset_22.png"
+  }
+]

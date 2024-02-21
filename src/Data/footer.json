@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Browse",
+    "first": "Home",
+    "second": "Shop",
+    "third": "Pricing",
+    "fourth": "About"
+  },
+
+  {
+    "id": 2,
+    "title": "Pages",
+    "first": "Category",
+    "second": "Contact",
+    "third": "Terms",
+    "fourth": "Product"
+  },
+
+  {
+    "id": 3,
+    "title": "Templates",
+    "first": "Kozmo",
+    "second": "Orbe",
+    "third": "AltC",
+    "fourth": "Kilq"
+  },
+  {
+    "id": 4,
+    "title": "Follow Us",
+    "first": "Dribble",
+    "second": "Behance",
+    "third": "Instagram",
+    "fourth": "Figma"
+  }
+]

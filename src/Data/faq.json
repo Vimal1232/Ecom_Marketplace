@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Which tools do I need to use the library?",
+    "content": "You will need basic knowledge of Framer to be able to use the template What is Framer? Framer is a web-based platform to quickly build world-class websites and web projects."
+  },
+  {
+    "id": 2,
+    "title": "Is this a one time payment?",
+    "content": "Yes. You pay only once to access the template forever."
+  },
+  {
+    "id": 3,
+    "title": "Do you offer student / teacher discounts?",
+    "content": "Absolutely! If you’re a student or a teacher, reach out to us with a document proof of your student/teacher status for a 50% discount."
+  },
+  {
+    "id": 4,
+    "title": "Which payment methods are accepted?",
+    "content": "We use Lemon Squeezy as our payment processor with a wide variety of accepted payments such: Cards (including Mastercard, Visa, Maestro, American Express, Discover, Diners Club, JCB, UnionPay, and Mada) PayPal iDEAL* Google Pay (Chrome only) Apple Pay"
+  },
+  {
+    "id": 5,
+    "title": "I have a problem",
+    "content": "Reach out to us and one of our support staff will help you with any issues or questions you have."
+  }
+]
