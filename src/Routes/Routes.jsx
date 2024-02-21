@@ -1,4 +1,4 @@
-import { Route, Routes, BrowserRouter as Router } from "react-router-dom";
+import { Route, Routes, HashRouter as Router } from "react-router-dom";
 import { Home, Shop, Pricing } from "../Pages/index";
 
 const Jumping = () => (
