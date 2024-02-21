@@ -1,5 +1,5 @@
 import { Route, Routes, HashRouter as Router } from "react-router-dom";
-import { Home, Shop, Pricing } from "../Pages/index";
+import { Home, Shop, Pricing, About } from "../Pages/index";
 
 const Jumping = () => (
   <Router>
@@ -7,6 +7,7 @@ const Jumping = () => (
       <Route path="/" element={<Home />}></Route>
       <Route path="/shop" element={<Shop />}></Route>
       <Route path="/price" element={<Pricing />}></Route>
+      <Route path="/about" element={<About />}></Route>
     </Routes>
   </Router>
 );

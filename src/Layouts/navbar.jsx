@@ -44,7 +44,7 @@ const Navbar = () => {
               whileHover={{ y: -2 }}
               className=" font-Inter text-[14px] font-medium"
             >
-              <a href="#">About</a>
+              <Link to="/about">About</Link>
             </motion.li>
             <motion.li
               whileHover={{ y: -2 }}
@@ -119,7 +119,7 @@ const Navbar = () => {
                 className=" font-Inter text-[20px] font-bold"
                 onClick={() => setisOpen(!isOpen)}
               >
-                <a href="#">About</a>
+                <Link to="/about">About</Link>
               </motion.li>
               <motion.li
                 whileTap={{ scale: 1.5 }}
