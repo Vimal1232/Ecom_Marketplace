@@ -15,6 +15,7 @@ import {
 } from "../../public/assets/HomeImages";
 
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 const Herosec = () => {
   const animation = {
@@ -65,7 +66,7 @@ const Herosec = () => {
           </div>
           <div>
             <button className=" bg-primary text-pure px-6 py-3 rounded-full font-Inter text-[18px] font-medium hover:bg-tertiary duration-700 ease-in-out">
-              Get Pro Access
+              <Link to="/price">Get Pro Access </Link>
             </button>
           </div>
           <div className="flex items-center gap-6 mt-20 max-sm:mt-6 max-sm:flex-wrap">
