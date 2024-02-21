@@ -55,9 +55,11 @@ const Navbar = () => {
           </ul>
         </div>
         <div>
-          <button className=" bg-tertiary text-pure px-7 py-3 rounded-full font-Inter text-[14px] font-medium hover:bg-primary duration-700 ease-in-out max-vmd:hidden">
-            Buy Template
-          </button>
+          <Link to="/shop">
+            <button className=" bg-tertiary text-pure px-7 py-3 rounded-full font-Inter text-[14px] font-medium hover:bg-primary duration-700 ease-in-out max-vmd:hidden">
+              Buy Template
+            </button>
+          </Link>
         </div>
         <div>
           <img
