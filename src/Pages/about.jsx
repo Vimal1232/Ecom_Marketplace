@@ -1,5 +1,5 @@
 import React from "react";
-import { Shophome } from "../Components";
+import { Shophome, Split } from "../Components";
 import { Navbar, Footer } from "../Layouts";
 import { AboutImg } from "../../public/assets/HomeImages";
 import { motion } from "framer-motion";
@@ -36,6 +36,10 @@ const About = () => {
       >
         <img src={AboutImg} alt="" />
       </motion.div>
+
+      <div className="my-20">
+        <Split />
+      </div>
     </section>
   );
 };

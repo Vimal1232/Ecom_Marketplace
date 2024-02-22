@@ -12,7 +12,7 @@ const Shophome = (Content) => {
         </div>
         <div className="flex flex-col gap-7">
           <h2
-            className={` ${Content.fontsize} font-Inter ${Content.fontClass} text-center leading-[74px] tracking-[-2.5px text-tertiary`}
+            className={` ${Content.fontsize} font-Inter ${Content.fontClass} text-center leading-[74px] tracking-[-2.5px text-tertiary max-sm:text-[48px]`}
           >
             {Content.title}
           </h2>
