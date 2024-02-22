@@ -5,7 +5,7 @@ const Split = () => {
     <section className=" px-10 max-sm:px-5">
       <div className="">
         <div className="grid grid-cols-4 border-t-2 border-b-2 max-md:grid-cols-2 max-sm:grid-cols-1  ">
-          <div className="flex flex-col gap-2 items-center justify-center border-r-2 py-[40px] px-[16px] max-md:border-r-0 max-md:border-t-2">
+          <div className="flex flex-col gap-2 items-center justify-center border-r-2 py-[40px] px-[16px] max-md:border-r-0 ">
             <div className="flex flex-col items-center justify-center">
               <h1 className=" text-[34px] font-Inter font-semibold text-tertiary">
                 15k+
