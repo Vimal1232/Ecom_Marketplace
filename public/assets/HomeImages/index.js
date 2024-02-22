@@ -18,6 +18,7 @@ import Background from "./Background_bg.webp";
 import Plus from "./Plus.svg";
 import Minus from "./Minus.svg";
 import Logos from "./logos.svg";
+import AboutImg from "./About.webp";
 
 export {
   Logo,
@@ -40,4 +41,5 @@ export {
   Plus,
   Minus,
   Logos,
+  AboutImg,
 };

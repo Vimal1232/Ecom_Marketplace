@@ -1,6 +1,8 @@
 import React from "react";
 import { Shophome } from "../Components";
 import { Navbar, Footer } from "../Layouts";
+import { AboutImg } from "../../public/assets/HomeImages";
+import { motion } from "framer-motion";
 
 const About = () => {
   return (
@@ -18,6 +20,22 @@ const About = () => {
           width="max-w-[900px] "
         />
       </div>
+      <motion.div
+        className=" flex items-center justify-center"
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true }}
+        transition={{ duration: 1, ease: "easeInOut" }}
+        variants={{
+          hidden: { opacity: 0, y: 40 },
+          visible: {
+            opacity: 1,
+            y: 0,
+          },
+        }}
+      >
+        <img src={AboutImg} alt="" />
+      </motion.div>
     </section>
   );
 };
