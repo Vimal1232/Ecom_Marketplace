@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "Name": "Jocelyn Schleifer",
+    "Post": "Managing Director",
+    "Img": "../assets/People_Images/People1.webp"
+  },
+  {
+    "id": 2,
+    "Name": "Wade Warren",
+    "Post": "Lead Designer",
+    "Img": "../assets/People_Images/people2.webp"
+  },
+  {
+    "id": 3,
+    "Name": "John Black",
+    "Post": "Creative Director",
+    "Img": "../assets/People_Images/people3.webp"
+  },
+  {
+    "id": 4,
+    "Name": "Donna Fox",
+    "Post": "Marketing Director",
+    "Img": "../assets/People_Images/people4.webp"
+  },
+  {
+    "id": 5,
+    "Name": "Kris Watsonchleifer",
+    "Post": "UX Designer",
+    "Img": "../assets/People_Images/people5.webp"
+  },
+  {
+    "id": 6,
+    "Name": "Arlene McCoy",
+    "Post": "Web Developer",
+    "Img": "../assets/People_Images/people6.webp"
+  },
+  {
+    "id": 7,
+    "Name": "Thor",
+    "Post": "Office Security",
+    "Img": "../assets/People_Images/people7.webp"
+  },
+  {
+    "id": 8,
+    "Name": "Dan Russell",
+    "Post": "UX Researcher",
+    "Img": "../assets/People_Images/people8.webp"
+  }
+]

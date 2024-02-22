@@ -6,6 +6,7 @@ import Shophome from "./Shophome";
 import Button from "./Button";
 import PriceCard from "./PriceCard";
 import Split from "./Split";
+import Team from "./Team";
 
 export {
   ProductCard,
@@ -16,4 +17,5 @@ export {
   Button,
   PriceCard,
   Split,
+  Team,
 };

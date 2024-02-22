@@ -1,5 +1,5 @@
 import React from "react";
-import { Shophome, Split } from "../Components";
+import { Shophome, Split, Team } from "../Components";
 import { Navbar, Footer } from "../Layouts";
 import { AboutImg } from "../../public/assets/HomeImages";
 import { motion } from "framer-motion";
@@ -50,6 +50,12 @@ const About = () => {
           fontsize="text-[64px]"
           width="max-w-[700px] "
         />
+      </div>
+      <div className="my-20">
+        <Team />
+      </div>
+      <div>
+        <Footer />
       </div>
     </section>
   );
