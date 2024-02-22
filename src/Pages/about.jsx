@@ -40,6 +40,17 @@ const About = () => {
       <div className="my-20">
         <Split />
       </div>
+      <div className="pt-20">
+        <Shophome
+          title="An invincible team"
+          Paragraph="
+          No matter what your industry or business goals, our team built a library that will make your brand leave a lasting impact."
+          Button="Talented Designers"
+          fontClass="font-semibold"
+          fontsize="text-[64px]"
+          width="max-w-[700px] "
+        />
+      </div>
     </section>
   );
 };
