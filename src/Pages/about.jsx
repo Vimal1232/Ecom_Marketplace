@@ -37,9 +37,22 @@ const About = () => {
         <img src={AboutImg} alt="" />
       </motion.div>
 
-      <div className="my-20">
+      <motion.div
+        className="my-20"
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true }}
+        transition={{ duration: 1, ease: "easeInOut" }}
+        variants={{
+          hidden: { opacity: 0, y: 40 },
+          visible: {
+            opacity: 1,
+            y: 0,
+          },
+        }}
+      >
         <Split />
-      </div>
+      </motion.div>
       <div className="pt-20">
         <Shophome
           title="An invincible team"
@@ -51,9 +64,22 @@ const About = () => {
           width="max-w-[700px] "
         />
       </div>
-      <div className="my-20">
+      <motion.div
+        className="my-20"
+        initial="hidden"
+        whileInView="visible"
+        viewport={{ once: true }}
+        transition={{ duration: 1, ease: "easeInOut" }}
+        variants={{
+          hidden: { opacity: 0, y: 40 },
+          visible: {
+            opacity: 1,
+            y: 0,
+          },
+        }}
+      >
         <Team />
-      </div>
+      </motion.div>
       <div>
         <Footer />
       </div>
