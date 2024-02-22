@@ -10,7 +10,7 @@ const Faq = () => {
     <div className=" px-10 max-sm:px-5">
       <div className="flex flex-col gap-10 items-center justify-center ">
         <div>
-          <h1 className="text-[42px] font-semibold text-center font-Inter">
+          <h1 className="text-[42px] font-semibold text-center font-Inter text-tertiary">
             Frequently Asked
           </h1>
         </div>
