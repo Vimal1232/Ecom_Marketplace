@@ -16,9 +16,9 @@ const Navbar = () => {
     <nav className="py-10 ">
       <div className="flex mx-auto  items-center justify-between px-20 max-sm:px-5 ">
         <div className="">
-          <a href="#hero">
+          <Link to="/">
             <img src={Logo} alt="" className=" h-[30px] w-[30px]" />
-          </a>
+          </Link>
         </div>
         <div className=" pl-20 mx-auto overflow-y-hidden max-vmd:hidden ">
           <ul className="flex items-center gap-10 justify-center">
