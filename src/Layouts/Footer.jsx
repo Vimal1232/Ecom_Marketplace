@@ -9,9 +9,9 @@ const Footer = () => {
       <div className=" px-10 max-sm:px-5">
         <div className="flex p-20 justify-evenly gap-8 max-sm:p-5">
           <div>
-            <a href="#hero">
+            <Link to="/">
               <img src={Logo} alt="" />
-            </a>
+            </Link>
           </div>
           <div className="grid grid-cols-4 gap-20 max-sm:grid-cols-3 max-xs:grid-cols-2">
             {Links.map((ink) => (

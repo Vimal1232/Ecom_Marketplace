@@ -80,7 +80,9 @@ const Navbar = () => {
         >
           <div className="flex items-center justify-between py-10 px-20 max-sm:px-5">
             <div className="">
-              <img src={Logo} alt="" className=" h-[30px] w-[30px]" />
+              <Link to="/">
+                <img src={Logo} alt="" className=" h-[30px] w-[30px]" />
+              </Link>
             </div>
             <div>
               <img
