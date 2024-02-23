@@ -19,7 +19,7 @@ const ProAccess = () => {
             </div>
             <div className="flex items-center gap-12 ml-9 max-sm:flex-wrap max-sm:gap-1 text-left ">
               <div>
-                <ul className="flex flex-col gap-3 list-image-[url(../../public/assets/HomeImages/checkmark.svg)] ">
+                <ul className="flex flex-col gap-3 list-image-[url(../../assets/HomeImages/checkmark.svg)] ">
                   <li className="text-[16px] text-differentpure3 font-Inter font-light leading-[32px]">
                     3K+ templates
                   </li>
@@ -32,7 +32,7 @@ const ProAccess = () => {
                 </ul>
               </div>
               <div>
-                <ul className="flex flex-col gap-3 list-image-[url(../../public/assets/HomeImages/checkmark.svg)] ">
+                <ul className="flex flex-col gap-3 list-image-[url(../../assets/HomeImages/checkmark.svg)] ">
                   <li className="text-[16px] text-differentpure3 font-Inter font-light leading-[32px]">
                     Shared styles
                   </li>
