@@ -1,5 +1,6 @@
 import React from "react";
 import { Background } from "../../public/assets/HomeImages/index";
+import { Link } from "react-router-dom";
 
 const ProAccess = () => {
   return (
@@ -45,9 +46,13 @@ const ProAccess = () => {
                 </ul>
               </div>
             </div>
-            <button className=" bg-primary  text-white text-[18px] p-3 rounded-full hover:bg-white hover:text-black duration-700 ease-in-out font-Inter font-medium">
-              Start your 7 day trial
-            </button>
+            <div className="">
+              <Link to="/price">
+                <button className=" bg-primary  text-white text-[18px] p-3 rounded-full hover:bg-white hover:text-black duration-700 ease-in-out font-Inter font-medium w-full">
+                  Start your 7 day trial
+                </button>
+              </Link>
+            </div>
           </div>
           <div className=" max-vmd:hidden">
             <img
