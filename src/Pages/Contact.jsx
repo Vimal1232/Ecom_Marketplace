@@ -1,6 +1,6 @@
 import React from "react";
-import { Navbar } from "../Layouts";
-import { Shophome } from "../Components";
+import { Navbar, Footer } from "../Layouts";
+import { Shophome, Form, Faq } from "../Components";
 
 const Contact = () => {
   return (
@@ -17,6 +17,15 @@ const Contact = () => {
           fontsize="text-[84px]"
           width="max-w-[900px] "
         />
+      </div>
+      <div className="my-20 pt-10">
+        <Form />
+      </div>
+      <div className="my-20 pt-20">
+        <Faq />
+      </div>
+      <div>
+        <Footer />
       </div>
     </section>
   );
