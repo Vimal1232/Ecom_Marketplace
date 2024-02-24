@@ -1,13 +1,7 @@
 import { useState } from "react";
 import { Logo, Ham, Close } from "../../public/assets/HomeImages";
-import { motion, AnimatePresence } from "framer-motion";
+import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-
-const circleVariants = {
-  initial: { scale: 0 },
-  animate: { scale: 1 },
-  exit: { scale: 0 },
-};
 
 const Navbar = () => {
   const [isOpen, setisOpen] = useState(false);
@@ -50,7 +44,7 @@ const Navbar = () => {
               whileHover={{ y: -2 }}
               className=" font-Inter text-[14px] font-medium"
             >
-              <a href="#">Contact</a>
+              <Link to="/contact">Contact</Link>
             </motion.li>
           </ul>
         </div>
