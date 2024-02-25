@@ -39,9 +39,16 @@ const Productdetail = () => {
                   {product.despricption}
                 </p>
               </div>
-              <button className=" bg-primary  text-white text-[18px] p-3 rounded-full hover:text-white hover:bg-tertiary duration-700 ease-in-out font-Inter font-medium w-full">
-                {product.price} Buy Now
-              </button>
+              <div className="flex gap-10 justify-between items-center ">
+                <button className=" bg-primary  text-white text-[18px] p-3 rounded-full hover:text-white hover:bg-tertiary duration-700 ease-in-out font-Inter font-medium w-3/5 ">
+                  Buy Now
+                </button>
+                <p>
+                  <span className=" font-Inter font-bold text-[24px] text-greyishblue">
+                    {product.price}
+                  </span>
+                </p>
+              </div>
             </div>
             <div className="p-12 bg-differentpure2 rounded-[32px] flex flex-col gap-5">
               <div>
