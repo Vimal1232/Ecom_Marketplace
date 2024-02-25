@@ -1,6 +1,7 @@
 import React from "react";
 import Product from "../Data/Productlist.json";
 import { motion } from "framer-motion";
+import { Link } from "react-router-dom";
 
 const ProductCard = ({ limit1, limit2 }) => {
   return (
@@ -21,13 +22,15 @@ const ProductCard = ({ limit1, limit2 }) => {
           }}
           className="flex flex-col gap-5 col-span-1"
         >
-          <div className=" bg-transparent box-border object-contain object-center block hover:scale-105 duration-500 ease-in-out cursor-pointer">
-            <img
-              src={Product.image}
-              alt={Product.name}
-              className=" w-full h-full rounded-3xl "
-            />
-          </div>
+          <Link to={`/product/${Product.id}`}>
+            <div className=" bg-transparent box-border object-contain object-center block hover:scale-105 duration-500 ease-in-out cursor-pointer">
+              <img
+                src={Product.image}
+                alt={Product.name}
+                className=" w-full h-full rounded-3xl "
+              />
+            </div>
+          </Link>
           <div>
             <div className="flex justify-between">
               <h2>

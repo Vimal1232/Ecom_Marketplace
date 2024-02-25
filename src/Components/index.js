@@ -8,6 +8,7 @@ import PriceCard from "./PriceCard";
 import Split from "./Split";
 import Team from "./Team";
 import Form from "./Form";
+import Proaccess2 from "./Proaccess2";
 
 export {
   ProductCard,
@@ -20,4 +21,5 @@ export {
   Split,
   Team,
   Form,
+  Proaccess2,
 };

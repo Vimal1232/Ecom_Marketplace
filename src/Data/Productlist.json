@@ -4,7 +4,11 @@
     "name": "Orbe",
     "tag": "Ecommerce",
     "price": "24$",
-    "image": "../assets/Product_Images/asset_0.png"
+    "image": "../assets/Product_Images/asset_0.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "56.74 MB",
+    "Updated": "12th May 2021"
   },
 
   {
@@ -12,153 +16,241 @@
     "name": "Blnk",
     "tag": "Ecommerce",
     "price": "30$",
-    "image": "../assets/Product_Images/asset_1.png"
+    "image": "../assets/Product_Images/asset_1.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "70.4 MB",
+    "Updated": "15th June 2023"
   },
   {
     "id": 3,
     "name": "Krate",
     "tag": "Ecommerce",
     "price": "20$",
-    "image": "../assets/Product_Images/asset_2.png"
+    "image": "../assets/Product_Images/asset_2.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "60.4 MB",
+    "Updated": "18th Feb 2024"
   },
   {
     "id": 4,
     "name": "AltC",
     "tag": "Ecommerce",
     "price": "25$",
-    "image": "../assets/Product_Images/asset_3.png"
+    "image": "../assets/Product_Images/asset_3.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "96.4 MB",
+    "Updated": "20th March 2022"
   },
   {
     "id": 5,
     "name": "Trinity",
     "tag": "Ecommerce",
     "price": "30$",
-    "image": "../assets/Product_Images/asset_4.png"
+    "image": "../assets/Product_Images/asset_4.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "200.4 MB",
+    "Updated": "30th Aug 2021"
   },
   {
     "id": 6,
     "name": "Kliq",
     "tag": "Ecommerce",
     "price": "35$",
-    "image": "../assets/Product_Images/asset_5.png"
+    "image": "../assets/Product_Images/asset_5.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "100.4 MB",
+    "Updated": "10th Dec 2021"
   },
   {
     "id": 7,
     "name": "Polar",
     "tag": "Ecommerce",
     "price": "24$",
-    "image": "../assets/Product_Images/asset_6.png"
+    "image": "../assets/Product_Images/asset_6.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "399.4 MB",
+    "Updated": "20th Jan 2023"
   },
   {
     "id": 8,
     "name": "Nayzak",
     "tag": "Ecommerce",
     "price": "40$",
-    "image": "../assets/Product_Images/asset_7.png"
+    "image": "../assets/Product_Images/asset_7.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "300.4 MB",
+    "Updated": "20th Feb 2022"
   },
   {
     "id": 9,
     "name": "Flora",
     "tag": "Ecommerce",
     "price": "27$",
-    "image": "../assets/Product_Images/asset_8.png"
+    "image": "../assets/Product_Images/asset_8.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "276.4 MB",
+    "Updated": "20th March 2021"
   },
   {
     "id": 10,
     "name": "Kensho",
     "tag": "Ecommerce",
     "price": "23$",
-    "image": "../assets/Product_Images/asset_9.png"
+    "image": "../assets/Product_Images/asset_9.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "189.4 MB",
+    "Updated": "20th April 2020"
   },
   {
     "id": 11,
     "name": "Yola",
     "tag": "Ecommerce",
     "price": "20$",
-    "image": "../assets/Product_Images/asset_10.png"
+    "image": "../assets/Product_Images/asset_10.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "123.3 MB",
+    "Updated": "20th May 2024"
   },
   {
     "id": 12,
     "name": "Kozmo",
     "tag": "Ecommerce",
     "price": "10$",
-    "image": "../assets/Product_Images/asset_11.png"
+    "image": "../assets/Product_Images/asset_11.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "90.4 MB",
+    "Updated": "20th June 2023"
   },
   {
     "id": 13,
     "name": "Moonz",
     "tag": "Ecommerce",
     "price": "30$",
-    "image": "../assets/Product_Images/asset_12.png"
+    "image": "../assets/Product_Images/asset_12.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "856.4 MB",
+    "Updated": "20th July 2022"
   },
   {
     "id": 14,
     "name": "Krizp",
     "tag": "Ecommerce",
     "price": "25$",
-    "image": "../assets/Product_Images/asset_13.png"
+    "image": "../assets/Product_Images/asset_13.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "100.4 MB",
+    "Updated": "20th Aug 2021"
   },
   {
     "id": 15,
     "name": "Hollar",
     "tag": "Ecommerce",
     "price": "30$",
-    "image": "../assets/Product_Images/asset_14.png"
+    "image": "../assets/Product_Images/asset_14.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "200.4 MB",
+    "Updated": "20th Sep 2020"
   },
   {
     "id": 16,
     "name": "Vantra",
     "tag": "Ecommerce",
     "price": "35$",
-    "image": "../assets/Product_Images/asset_15.png"
+    "image": "../assets/Product_Images/asset_15.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "300.4 MB",
+    "Updated": "20th Oct 2021"
   },
   {
     "id": 17,
     "name": "Herka",
     "tag": "Ecommerce",
     "price": "24$",
-    "image": "../assets/Product_Images/asset_16.png"
+    "image": "../assets/Product_Images/asset_16.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "400.4 MB",
+    "Updated": "20th Nov 2021"
   },
   {
     "id": 18,
     "name": "Plymm",
     "tag": "Ecommerce",
     "price": "40$",
-    "image": "../assets/Product_Images/asset_17.png"
+    "image": "../assets/Product_Images/asset_17.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "360.4 MB",
+    "Updated": "20th Dec 2021"
   },
   {
     "id": 19,
     "name": "Tyco",
     "tag": "Ecommerce",
     "price": "27$",
-    "image": "../assets/Product_Images/asset_18.png"
+    "image": "../assets/Product_Images/asset_18.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "330.5 MB",
+    "Updated": "20th Jan 2021"
   },
   {
     "id": 20,
     "name": "Dento",
     "tag": "Ecommerce",
     "price": "23$",
-    "image": "../assets/Product_Images/asset_19.png"
+    "image": "../assets/Product_Images/asset_19.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "24.4 MB",
+    "Updated": "20th Feb 2021"
   },
   {
     "id": 21,
     "name": "Crane",
     "tag": "Ecommerce",
     "price": "20$",
-    "image": "../assets/Product_Images/asset_20.png"
+    "image": "../assets/Product_Images/asset_20.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "70.67 MB",
+    "Updated": "20th March 2021"
   },
   {
     "id": 22,
     "name": "Bliss",
     "tag": "Ecommerce",
     "price": "10$",
-    "image": "../assets/Product_Images/asset_21.png"
+    "image": "../assets/Product_Images/asset_21.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "56.74 MB",
+    "Updated": "20th April 2021"
   },
   {
     "id": 23,
     "name": "Kento",
     "tag": "Ecommerce",
     "price": "10$",
-    "image": "../assets/Product_Images/asset_22.png"
+    "image": "../assets/Product_Images/asset_22.png",
+    "despricption": " A minimal template meticulously crafted for startups, business owners, and entrepreneurs. Its development prioritizes high precision and follows the best UI/UX practices, empowering you to create a project that delivers remarkable results.",
+    "compatibilty": "Framer,Figma",
+    "Size": "56.74 MB",
+    "Updated": "20th May 2021"
   }
 ]
