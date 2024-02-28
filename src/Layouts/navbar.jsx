@@ -122,7 +122,7 @@ const Navbar = () => {
                 className=" font-Inter text-[20px] font-bold"
                 onClick={() => setisOpen(!isOpen)}
               >
-                <a href="#">Contact</a>
+                <Link to="/contact">Contact</Link>
               </motion.li>
             </ul>
           </div>
